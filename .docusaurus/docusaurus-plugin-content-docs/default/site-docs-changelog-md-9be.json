@@ -1,0 +1,23 @@
+{
+  "unversionedId": "changelog",
+  "id": "changelog",
+  "title": "Changelog",
+  "description": "",
+  "source": "@site/docs/changelog.md",
+  "sourceDirName": ".",
+  "slug": "/changelog",
+  "permalink": "/docs/changelog",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/changelog.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Settings",
+    "permalink": "/docs/settings"
+  }
+}

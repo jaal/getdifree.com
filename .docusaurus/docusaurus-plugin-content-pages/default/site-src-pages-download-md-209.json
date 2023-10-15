@@ -1,0 +1,12 @@
+{
+  "type": "mdx",
+  "permalink": "/download",
+  "source": "@site/src/pages/download.md",
+  "title": "Download",
+  "description": "See how to download and install Difree on your computer",
+  "frontMatter": {
+    "title": "Download",
+    "description": "See how to download and install Difree on your computer",
+    "hide_table_of_contents": true
+  }
+}

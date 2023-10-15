@@ -1,0 +1,50 @@
+{
+  "permalink": "/blog/why",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2023-09-29/index.md",
+  "source": "@site/blog/2023-09-29/index.md",
+  "title": "Why Monospaced Fonts in Difree?",
+  "description": "We've got some exciting news to share that's going to make your writing experience even more enjoyable – we've added in Difree 0.9.4 two awesome monospaced fonts, iAWriterMono and Courier New, to Difree! 🚀",
+  "date": "2023-09-29T00:00:00.000Z",
+  "formattedDate": "September 29, 2023",
+  "tags": [
+    {
+      "label": "features",
+      "permalink": "/blog/tags/features"
+    },
+    {
+      "label": "fonts",
+      "permalink": "/blog/tags/fonts"
+    }
+  ],
+  "readingTime": 2.6,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Olek",
+      "title": "co-creator",
+      "url": "https://olek.works",
+      "image_url": ".../olek.png",
+      "imageURL": ".../olek.png"
+    }
+  ],
+  "frontMatter": {
+    "slug": "why",
+    "title": "Why Monospaced Fonts in Difree?",
+    "description": "We've got some exciting news to share that's going to make your writing experience even more enjoyable – we've added in Difree 0.9.4 two awesome monospaced fonts, iAWriterMono and Courier New, to Difree! 🚀",
+    "authors": {
+      "name": "Olek",
+      "title": "co-creator",
+      "url": "https://olek.works",
+      "image_url": ".../olek.png",
+      "imageURL": ".../olek.png"
+    },
+    "tags": [
+      "features",
+      "fonts"
+    ]
+  },
+  "nextItem": {
+    "title": "Release Difree 0.9.4 - Enhance Your Writing Experience with monospaced fonts and RTL",
+    "permalink": "/blog/release-0-9-4"
+  }
+}

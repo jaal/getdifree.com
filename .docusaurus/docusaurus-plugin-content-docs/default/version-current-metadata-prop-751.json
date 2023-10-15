@@ -1,0 +1,64 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Intro",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "link",
+        "label": "Features",
+        "href": "/docs/features",
+        "docId": "features"
+      },
+      {
+        "type": "link",
+        "label": "Settings",
+        "href": "/docs/settings",
+        "docId": "settings"
+      },
+      {
+        "type": "link",
+        "label": "Changelog",
+        "href": "/docs/changelog",
+        "docId": "changelog"
+      }
+    ]
+  },
+  "docs": {
+    "changelog": {
+      "id": "changelog",
+      "title": "Changelog",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "features": {
+      "id": "features",
+      "title": "Features",
+      "description": "Copy",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Intro",
+      "description": "Hey there, fellow wordsmiths and creative minds! If you've ever found yourself in need of a tranquil oasis in the midst of the digital chaos, you're in for a treat. Welcome to the official Difree documentation, your key to unlocking the full potential of our minimalist writing app. 🚀",
+      "sidebar": "tutorialSidebar"
+    },
+    "settings": {
+      "id": "settings",
+      "title": "Settings",
+      "description": "Add my signature",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}
