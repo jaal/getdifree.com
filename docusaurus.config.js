@@ -10,7 +10,7 @@ const config = {
       [
         "posthog-docusaurus",
         {
-          apiKey: "phc_9Tyn6okdZz8WGrwv4B5dfOU5pEwox04bwRd0Nt1Wdlw",
+          apiKey: "phc_pAVDMSA1JEovrZWF6leBbo8321TAkeeikPav6T7GHF8",
           appUrl: "https://eu.posthog.com", // optional
           enableInDevelopment: false, // optional
           // other options are passed to posthog-js init as is
