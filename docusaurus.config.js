@@ -6,6 +6,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+    plugins: [
+      [
+        "posthog-docusaurus",
+        {
+          apiKey: "phc_9Tyn6okdZz8WGrwv4B5dfOU5pEwox04bwRd0Nt1Wdlw",
+          appUrl: "https://eu.posthog.com", // optional
+          enableInDevelopment: false, // optional
+          // other options are passed to posthog-js init as is
+        },
+      ],
+    ],
   title: 'Difree – a distraction-free writing app',
   tagline: 'Escape distractions while writing: Difree offers a serene, focused space to unleash creativity.',
   favicon: 'img/logo32.png',
