@@ -13,7 +13,7 @@ tags: [features, fonts]
 # Hey there, Difree Community!
 
 We've got some exciting news to share that's going to make your writing experience even more enjoyable – we've added in Difree 0.9.4 two awesome monospaced fonts, iAWriterMono and Courier New, to Difree! 🚀
-
+<!--truncate-->
 ## 🤔 Why Monospaced Fonts?
 
 You might be wondering, "Why monospaced fonts?" Well, there are some great reasons:

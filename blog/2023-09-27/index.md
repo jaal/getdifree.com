@@ -15,7 +15,7 @@ tags: [features, fonts]
 We're excited to introduce Difree version 0.9.4, packed with new features and improvements to make your writing experience even better: 
 1. Writing Right-To-Left (RTL) 
 2. and Monospaced Font Selection
-
+<!--truncate-->
 ## 🚀 What's New in Difree 0.9.4:
 
 ### Changelog

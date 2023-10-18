@@ -13,7 +13,7 @@ tags: [bugs, release, changelog]
 # Hey, Difree Fans!
 
 We're back with an update that focuses on fine-tuning your writing experience. Difree version 0.9.4.1 is here, and it's all about addressing those pesky bugs to ensure a smoother and more enjoyable writing journey. Let's dive into what's changed:
-
+<!--truncate-->
 ## 🚀 What's New in Difree 0.9.4.1:
 
 ### Changelog
