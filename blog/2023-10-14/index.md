@@ -2,11 +2,7 @@
 slug: release-0-9-4-1
 title: Release Difree 0.9.4.1 - Squashing Bugs
 description: "We're back with an update that focuses on fine-tuning your writing experience. Difree version 0.9.4.1 is here, and it's all about addressing those pesky bugs to ensure a smoother and more enjoyable writing journey."
-authors:
-  name: Olek
-  title: co-creator
-  url: https://olek.works
-  image_url: .../olek.png
+authors: olek
 tags: [bugs, release, changelog]
 ---
 

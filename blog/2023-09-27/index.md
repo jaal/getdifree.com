@@ -2,11 +2,7 @@
 slug: release-0-9-4
 title: Release Difree 0.9.4 - Enhance Your Writing Experience with monospaced fonts and RTL
 description: "We're excited to introduce Difree version 0.9.4, packed with new features and improvements to make your writing experience even better: Writing Right-To-Left (RTL) and Monospaced Font Selection"
-authors:
-  name: Olek
-  title: co-creator
-  url: https://olek.works
-  image_url: /blog/olek.png
+authors: olek
 tags: [features, fonts]
 ---
 

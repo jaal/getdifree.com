@@ -2,11 +2,7 @@
 slug: why
 title: Why Monospaced Fonts in Difree?
 description: "We've got some exciting news to share that's going to make your writing experience even more enjoyable – we've added in Difree 0.9.4 two awesome monospaced fonts, iAWriterMono and Courier New, to Difree! 🚀"
-authors:
-  name: Olek
-  title: co-creator
-  url: https://olek.works
-  image_url: .../olek.png
+authors: olek
 tags: [features, fonts]
 ---
 

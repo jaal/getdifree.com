@@ -49,6 +49,11 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogTitle: 'Blog about Difree',
+          blogDescription: 'Get a deep dive into what\'s happening in Difree',
+          postsPerPage: 10,
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
           // Please change this to your repo.
         },
         theme: {
