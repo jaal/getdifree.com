@@ -1,5 +1,5 @@
 ---
-slug: release-0-9-5.7
+slug: release-0-9-5-7
 title: Release Difree 0.9.5.7 - More Writing Freedom and Enhanced User Insights
 description: "We're excited to introduce Difree version 0.9.5.7, an update that brings more flexibility to your writing and enhances your experience with insightful user data. Let's explore what's new in this release."
 authors: olek
