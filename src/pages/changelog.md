@@ -1,10 +1,19 @@
 ---
+title: Changelog
+description: How do you find Difree? What's good and what's missing? How can we help you more?
+hide_table_of_contents: true
 sidebar_position: 4
 ---
 
 # Changelog
 
 ```
+⭢ 0.9.4.1 – 2023-10-14
+# Changed
+1. [Bug] The line doesn't break properly
+2. [Bug] The scrollbar appears in the middle of the screen
+3. [Bug] [Mac] The focus and cursor disappears
+
 ⭢ 0.9.4.1 – 2023-10-14
 # Changed
 1. [Bug] The line doesn't break properly
@@ -222,6 +231,5 @@ We changed framework, we build Difree. This will help us easily introduce new vi
 ⭢ 0.2.5
 - release first version of Difree
 ```
-
 
 

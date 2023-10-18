@@ -17,22 +17,6 @@ const config = {
           // other options are passed to posthog-js init as is
         },
       ],
-      [
-        '@docusaurus/plugin-client-redirects',
-        {
-          redirects: [
-            // /docs/oldDoc -> /docs/newDoc
-            {
-              to: '/docs/',
-              from: '/docs/intro/',
-            },
-            {
-              to: '/changelog/',
-              from: '/docs/changelog/',
-            },
-          ],
-        },
-      ],
     ],
   title: 'Difree – a distraction-free writing app',
   tagline: 'Escape distractions while writing: Difree offers a serene, focused space to unleash creativity.',
@@ -113,6 +97,10 @@ const config = {
                 label: 'Docs',
                 to: '/docs/intro',
               },
+              {
+                label: 'Changelog',
+                to: '/changelog',
+              },
             ],
           },
           {
@@ -138,10 +126,6 @@ const config = {
               {
                 label: 'Privacy policy',
                 to: '/privacy-policy',
-              },
-              {
-                label: 'Changelog',
-                to: '/docs/changelog',
               },
             ],
           },

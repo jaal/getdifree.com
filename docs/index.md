@@ -13,3 +13,5 @@ But Difree is more than just a pretty face; it's packed with features that make 
 And here's the cherry on top: Difree doesn't play fast and loose with your privacy. We take it seriously, so you can write with peace of mind, knowing that your creative musings are your own, and we won't collect or analyze them. 🔒
 
 So, whether you're a professional writer, a student, or just someone who loves to jot down their thoughts, we invite you to explore the world of Difree. It's not just a writing app; it's your companion in the quest for meaningful and distraction-free writing sessions. This documentation is your roadmap to unlocking all the features and settings that will make your writing journey a breeze. So, let's get started! 📝
+
+
