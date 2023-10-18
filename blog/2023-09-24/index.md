@@ -54,7 +54,7 @@ If you find Difree useful, could you please rate us ★★★★★ on [Chrome W
 
 ## 📚 Download Difree 0.9.0 Now!
 
-Ready to experience the magic of keyboard sounds? [Update or install Difree 0.9.0](https://i.getdifree.com/install) today and embark on a writing journey like no other.
+Ready to experience the magic of keyboard sounds? [Update or install Difree 0.9.0](https://www.getdifree.com/download/) today and embark on a writing journey like no other.
 
 Thank you for being a part of our growing community. We can't wait to see how this new feature enhances your writing experience.
 

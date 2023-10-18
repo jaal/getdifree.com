@@ -8,6 +8,15 @@ sidebar_position: 4
 # Changelog
 
 ```
+⭢ 0.9.5.7 – 2023-10-18
+# Added
+1. Add more formatting options: inline code, block code
+1. Add app usage events
+
+# Changed
+1. Adjust the Welcome Page content
+1. Adjust the Feedback popup content
+
 ⭢ 0.9.4.1 – 2023-10-14
 # Changed
 1. [Bug] The line doesn't break properly

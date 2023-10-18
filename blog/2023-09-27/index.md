@@ -75,7 +75,7 @@ Please let us know how we are doing! Write on [hi@getdifree.com](mailto:hi@getdi
 
 ## 📚 Download Difree 0.9.4 Now!
 
-Ready to experience the magic Difree? [Update or install Difree 0.9.4](https://i.getdifree.com/install) today and embark on a writing journey like no other.
+Ready to experience the magic Difree? [Update or install Difree 0.9.4](https://www.getdifree.com/download/) today and embark on a writing journey like no other.
 
 Thank you for being a part of our growing community. We can't wait to see how this new feature enhances your writing experience.
 
