@@ -76,9 +76,9 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/download', label: 'Download', position: 'left'},
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/contact', label: 'Contact', position: 'left'}
+          {to: 'download', label: 'Download', position: 'left'},
+          {to: 'blog', label: 'Blog', position: 'left'},
+          {to: 'contact', label: 'Contact', position: 'left'}
         ],
       },
       footer: {
