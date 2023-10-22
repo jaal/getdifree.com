@@ -15,6 +15,8 @@ hide_table_of_contents: true
 
 🌙 **Dark Mode**: Protect your eyes during late-night writing sessions with Difree's dark mode. Enjoy a visually comfortable experience, day or night.
 
+📊 **Word Counter**: Keep track of characters, words, and sentences in your text with Difree's built-in word counter.
+
 🔠 **Monospaced Fonts**: Precision matters, and Difree offers a selection of monospaced fonts for a clean and organized writing environment.
 
 ↔️ **RTL Writing**: Express yourself effortlessly in languages that read from right to left with Difree's RTL writing support.
