@@ -39,8 +39,13 @@ sidebar_position: 3
 4. It's available when the Sidebar is opened, in the Options.
 5. Default: Large
 
-## Key sound
+## Keystroke sounds
 1. You can have the sounds of keystrokes while typing.
+2. It's available when the Sidebar is opened, in the Options.
+3. Default: Off
+
+## Word counter
+1. You can have the written characters, words, sentences counted while typing. Additionally, the reading time is available.
 2. It's available when the Sidebar is opened, in the Options.
 3. Default: Off
 
