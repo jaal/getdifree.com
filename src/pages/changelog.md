@@ -8,6 +8,10 @@ sidebar_position: 4
 # Changelog
 
 ```
+⭢ 1.1.1 – 2023-11-07
+# Added
+1. Add Minimalistic View - a simplified view of the interface
+
 ⭢ 1.0.1 – 2023-10-22
 # Added
 1. Add Word counter
