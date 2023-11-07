@@ -1,12 +1,12 @@
 ---
 slug: release-1-0-1
-title: "Difree 1.0.1 Release: Counting Your Way to Better Writing"
+title: "Release Difree 1.0.1: Counting Your Way to Better Writing"
 description: "We are thrilled to introduce Difree version 1.0.1, a milestone in your writing journey with the addition of a valuable feature – the Word Counter. Let's dive into what's new in this release:"
 authors: olek
 tags: [features, release, changelog, word counter]
 ---
 
-# Difree 1.0.1 Release: Counting Your Way to Better Writing
+# Release Difree 1.0.1: Counting Your Way to Better Writing
 
 Hello, Difree Enthusiasts!
 
