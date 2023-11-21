@@ -8,6 +8,15 @@ sidebar_position: 4
 # Changelog
 
 ```
+⭢ 1.2.1 – 2023-11-21
+# Added
+1. Add app usage events based on location
+# Changed
+1. [Bug] tooltip doesn't disappear
+1. [Bug] cannot editing hyperlink
+1. [Bug] while adding link, the focus is outside the box
+1. [Bug] about:blank when entering URL in incorrect format
+
 ⭢ 1.1.1 – 2023-11-07
 # Added
 1. Add Minimalistic View - a simplified view of the interface

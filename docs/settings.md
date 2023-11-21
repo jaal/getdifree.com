@@ -60,6 +60,7 @@ sidebar_position: 3
 2. It's available when the Sidebar is opened, in the Options.
 3. Default: Off
 ![Difree: feature Keyboard sounds](/img/2_16_minimalistic_view.png)
+![Difree: Minimalistic view](/img/difree-word-counter-2023-11-07.gif)
 
 ## Privacy consent
 1. You can agree or disagree on sharing statistic data with us. The statistic data doesn't contain any information about the content. It's about the usage of the Difree. More: 

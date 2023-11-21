@@ -28,6 +28,8 @@ In response to user feedback and our commitment to providing an uncluttered, dis
 * Step 1: Access the Sidebar, then Options.
 * Step 2: Select Minimalistic Views.
 
+![Difree: Minimalistic view](/img/difree-minimalistic-view-2023-11-07.gif)
+
 ## 🎉 Share Your Feedback!
 We're eager to hear how this new feature transforms your writing experience. Your feedback is pivotal in guiding our future developments and ensuring Difree remains tailored to your needs.
 
