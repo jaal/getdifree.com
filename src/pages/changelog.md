@@ -8,9 +8,13 @@ sidebar_position: 4
 # Changelog
 
 ```
+⭢ 1.2.2 – 2023-12-02
+# Changed
+1. Revert changes about app usage events from 1.2.1
+
 ⭢ 1.2.1 – 2023-11-21
 # Added
-1. Add app usage events based on location
+1. Add app usage events
 # Changed
 1. [Bug] tooltip doesn't disappear
 1. [Bug] cannot editing hyperlink
