@@ -8,7 +8,7 @@ sidebar_position: 4
 # Changelog
 
 ```
-⭢ 1.2.3 – 2023-12-11
+⭢ 1.2.3 – 2023-12-13
 # Changed
 1. [Bug] sending app usage events causes errors
 2. Add app usage events - uninstall
