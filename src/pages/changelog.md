@@ -8,6 +8,11 @@ sidebar_position: 4
 # Changelog
 
 ```
+⭢ 1.2.3 – 2023-12-11
+# Changed
+1. [Bug] sending app usage events causes errors
+2. Add app usage events - uninstall
+
 ⭢ 1.2.2 – 2023-12-02
 # Changed
 1. Revert changes about app usage events from 1.2.1
