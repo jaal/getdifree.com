@@ -8,6 +8,12 @@ sidebar_position: 4
 # Changelog
 
 ```
+⭢ 1.2.3.1 – 2024-01-23
+# Added
+1. Add app usage events - error handlers
+1. Add app usage events - uninstall
+1. Add browser unitests
+
 ⭢ 1.2.3 – 2023-12-13
 # Changed
 1. [Bug] sending app usage events causes errors
