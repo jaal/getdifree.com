@@ -8,6 +8,13 @@ sidebar_position: 4
 # Changelog
 
 ```
+⭢ 1.3.0 – 2024-02-19
+# Added
+1. Add About section
+# Changed
+1. Settings sections moved to the right Sidebar
+2. [bug] Welcome Page looks bad in dark theme
+
 ⭢ 1.2.3.1 – 2024-01-23
 # Added
 1. Add app usage events - error handlers

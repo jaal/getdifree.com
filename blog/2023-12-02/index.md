@@ -11,7 +11,7 @@ tags: [features, release, changelog, revert]
 Greetings, Difree Community!
 
 We needed to revert the changes made in version 1.2.1 related to app usage events. We understand the importance of a smooth and error-free writing environment, and we appreciate your continued support and feedback. Let's delve into the key changes in this release.
-
+<!--truncate-->
 ## What's New in Difree
 ### Changelog
     ⭢ 1.2.2 – 2023-12-02

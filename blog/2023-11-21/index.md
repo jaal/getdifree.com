@@ -11,7 +11,7 @@ tags: [features, release, changelog, bugs, usage events]
 Greetings, Difree Community!
 
 We are excited to announce the latest version of Difree – version 1.2.1. This release is all about enhancing your writing experience by addressing bugs and introducing improvements in telemetrics. 
-
+<!--truncate-->
 ## What's New in Difree
 ### Changelog
     ⭢ 1.2.1 – 2023-11-21
